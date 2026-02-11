@@ -1,0 +1,36 @@
+/* Admin Styles for Blog to Video Converter */
+
+.btv-container {
+    text-align: center;
+    padding: 10px;
+}
+
+.btv-controls {
+    margin-top: 15px;
+}
+
+#btv-progress-container {
+    background: #f0f0f1;
+    border: 1px solid #c3c4c7;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+#btv-status {
+    font-weight: bold;
+    margin-bottom: 5px;
+    font-size: 13px;
+    color: #2271b1;
+}
+
+progress {
+    height: 20px;
+    border-radius: 10px;
+}
+
+.btv-preview video {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin-bottom: 15px;
+    background: #000;
+}
