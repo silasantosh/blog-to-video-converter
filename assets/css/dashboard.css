@@ -1,0 +1,149 @@
+/* Dashboard Styles */
+.btv-dashboard-wrap {
+    max-width: 1200px;
+    margin: 20px auto;
+}
+
+.btv-dash-subtitle {
+    font-size: 1.2em;
+    color: #666;
+    margin-bottom: 30px;
+}
+
+.btv-dash-controls {
+    margin-bottom: 20px;
+    display: flex;
+    gap: 15px;
+    align-items: center;
+}
+
+.btv-dash-controls select {
+    font-size: 14px;
+    padding: 6px;
+}
+
+/* Stats Grid */
+.btv-stats-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+    margin-bottom: 30px;
+}
+
+.btv-stat-card {
+    background: #fff;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+    text-align: center;
+    border-top: 4px solid #ccc;
+}
+
+.btv-stat-purple {
+    border-color: #6c63ff;
+}
+
+.btv-stat-blue {
+    border-color: #3498db;
+}
+
+.btv-stat-green {
+    border-color: #27ae60;
+}
+
+.btv-stat-teal {
+    border-color: #16a085;
+}
+
+.btv-stat-orange {
+    border-color: #e67e22;
+}
+
+.btv-stat-red {
+    border-color: #e74c3c;
+}
+
+.btv-stat-yellow {
+    border-color: #f1c40f;
+}
+
+.btv-stat-pink {
+    border-color: #e84393;
+}
+
+.btv-stat-icon {
+    font-size: 24px;
+    margin-bottom: 5px;
+}
+
+.btv-stat-number {
+    font-size: 32px;
+    font-weight: bold;
+    color: #333;
+    margin: 5px 0;
+}
+
+.btv-stat-label {
+    font-size: 14px;
+    color: #777;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+/* Rate Cards */
+.btv-rates-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 15px;
+    margin-bottom: 40px;
+}
+
+.btv-rate-card {
+    background: #f8f9fa;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    padding: 15px;
+    text-align: center;
+}
+
+.btv-rate-value {
+    font-size: 24px;
+    font-weight: bold;
+    color: #2c3e50;
+}
+
+.btv-rate-label {
+    font-size: 13px;
+    color: #666;
+    font-weight: 600;
+    margin-top: 5px;
+}
+
+.btv-rate-desc {
+    font-size: 11px;
+    color: #999;
+    margin-top: 3px;
+}
+
+/* Charts & Tables */
+.btv-chart-section,
+.btv-top-posts-section {
+    background: #fff;
+    padding: 25px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+    margin-bottom: 30px;
+}
+
+.btv-chart-section h2,
+.btv-top-posts-section h2 {
+    margin-top: 0;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #eee;
+    font-size: 18px;
+}
+
+#btv-trend-chart {
+    width: 100%;
+    height: 300px;
+}

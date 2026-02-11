@@ -1,0 +1,89 @@
+/* Blog to Video Converter v2 — Admin Styles */
+
+.btv-container {
+    padding: 12px;
+    text-align: center;
+}
+
+.btv-controls {
+    margin-top: 12px;
+}
+
+.btv-controls .description {
+    color: #888;
+    font-style: italic;
+}
+
+#btv-progress-container {
+    background: #f7f7f7;
+    border: 1px solid #ddd;
+    padding: 14px;
+    border-radius: 8px;
+}
+
+#btv-status {
+    font-weight: 600;
+    font-size: 13px;
+    color: #2271b1;
+    margin-bottom: 8px;
+    min-height: 18px;
+}
+
+progress {
+    height: 18px;
+    border-radius: 9px;
+    width: 100%;
+    appearance: none;
+    -webkit-appearance: none;
+}
+
+progress::-webkit-progress-bar {
+    background-color: #eee;
+    border-radius: 9px;
+}
+
+progress::-webkit-progress-value {
+    background: linear-gradient(90deg, #6c63ff, #3f3d56);
+    border-radius: 9px;
+}
+
+.btv-preview {
+    margin-bottom: 12px;
+}
+
+.btv-preview video {
+    border: 2px solid #ddd;
+    border-radius: 8px;
+    background: #000;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.btv-branding {
+    margin-top: 16px;
+    padding-top: 12px;
+    border-top: 1px solid #eee;
+    font-size: 12px;
+    color: #999;
+}
+
+.btv-branding a {
+    color: #6c63ff;
+}
+
+.btv-donate-btn {
+    color: #fff !important;
+    background: linear-gradient(135deg, #28a745, #218838) !important;
+    border: none !important;
+    border-radius: 4px !important;
+    padding: 2px 12px !important;
+    cursor: pointer;
+}
+
+/* Settings page */
+.btv-support-section {
+    background: #fff;
+    padding: 20px;
+    border: 1px solid #ccd0d4;
+    margin-top: 20px;
+    border-left: 4px solid #6c63ff;
+}
