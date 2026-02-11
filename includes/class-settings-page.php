@@ -74,10 +74,11 @@ class BTV_Settings_Page
             <div class="btv-support-section" style="margin-top:40px; padding:20px; background:#fff; border:1px solid #ccd0d4; border-radius:8px;">
                 <h2>❤️ Support the Creator</h2>
                 <p>Hi! I built this plugin to help you create amazing videos. If you find it useful, consider supporting my work!</p>
-                <p>
                     <a href="https://atgfoundation.org/donate/" target="_blank" class="button button-primary" style="background-color: #6c63ff; border-color: #6c63ff;">Donate to ATG Foundation</a>
                     &nbsp;
-                    <a href="https://www.linkedin.com/in/silasantosh" target="_blank" class="button">Contact & Follow on LinkedIn</a>
+                    <a href="https://github.com/silasantosh/blog-to-video-converter" target="_blank" class="button">GitHub Repo</a>
+                    &nbsp;
+                    <a href="https://www.linkedin.com/in/silasantosh" target="_blank" class="button">LinkedIn</a>
                 </p>
                 <p style="font-size:12px; color:#666; margin-top:10px;">
                     Stay connected for more updates and ethical AI tools!

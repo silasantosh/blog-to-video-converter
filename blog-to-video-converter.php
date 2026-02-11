@@ -279,7 +279,7 @@ class Blog_To_Video_Converter
 				<div class="btv-branding" style="margin-top:20px; padding:12px; background:#f6f6f7; border-radius:6px; font-size:12px;">
 					<p style="margin:0 0 8px 0;"><strong>Hi!</strong> I built this plugin to help you create amazing videos. If you find it useful, consider supporting my work!</p>
 					<div style="display:flex; justify-content:space-between; align-items:center;">
-						<span>By <a href="https://www.linkedin.com/in/silasantosh" target="_blank">Sila Santosh Kumar</a></span>
+						<span>By <a href="https://www.linkedin.com/in/silasantosh" target="_blank">Sila Santosh Kumar</a> | <a href="https://github.com/silasantosh/blog-to-video-converter" target="_blank">GitHub</a></span>
 						<a href="https://atgfoundation.org/donate/" target="_blank" class="button button-small btv-donate-btn" style="background:#6c63ff; border:none; color:#fff;">❤️ Support</a>
 					</div>
 				</div>

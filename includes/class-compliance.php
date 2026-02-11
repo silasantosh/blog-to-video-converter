@@ -69,6 +69,7 @@ class BTV_Compliance
 						<h2>🤝 Open Source & Ethics</h2>
 						<p>
 							<strong>License:</strong> GPLv2 or later (100% Free Software).<br>
+							<strong>GitHub:</strong> <a href="https://github.com/silasantosh/blog-to-video-converter" target="_blank">silasantosh/blog-to-video-converter</a><br>
 							<strong>Transparency:</strong> No hidden costs, no locked features, no "fake free" barriers.
 						</p>
 					</div>
