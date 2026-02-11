@@ -3,7 +3,7 @@
  * Plugin Name: Blog to Video Converter
  * Plugin URI: https://www.linkedin.com/in/silasantosh
  * Description: Converts blog posts into stunning videos with website branding, storyline, charts, and stock media.
- * Version: S 1.0.0
+ * Version: S 1.0.1
  * Author: Sila Santosh Kumar
  * Author URI: https://www.linkedin.com/in/silasantosh
  * License: GPLv2 or later

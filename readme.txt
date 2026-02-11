@@ -3,7 +3,7 @@ Contributors: silasantosh
 Tags: video, blog to video, ai, content repurposing, made in india, charity
 Requires at least: 6.0
 Tested up to: 6.4
-Stable tag: S 1.0.0
+Stable tag: S 1.0.1
 License: GPLv2 or later
 
 Turn your blog posts into engaging videos in seconds. 100% Free, Privacy-First, and Made in India.
